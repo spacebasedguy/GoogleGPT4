@@ -4,6 +4,10 @@ GoogleGPT4 is a Chrome extension that enhances your Google search experience by 
 
 **Note:** This is a simple, minimalistic extension with limited functionalities. Feel free to extend its capabilities, add new features, and make improvements!
 
+## Prerequisites
+
+To use this extension, you must have beta access to the GPT-4 API. If you don't have access, please join the waitlist here: https://openai.com/waitlist/gpt-4-api
+
 ## Features
 
 - Automatically injects GPT-4 generated answers into your Google search results
@@ -26,7 +30,7 @@ GoogleGPT4 is a Chrome extension that enhances your Google search experience by 
 
 ## Contributing
 
-If you'd like to contribute to the project, please submit a pull request with your changes or improvements. We appreciate your support!
+If you'd like to contribute to the project, please submit a pull request with your changes or improvements.
 
 ## License
 
