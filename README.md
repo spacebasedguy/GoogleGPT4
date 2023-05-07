@@ -13,6 +13,7 @@ To use this extension, you must have beta access to the GPT-4 API. If you don't 
 - Automatically injects GPT-4 generated answers into your Google search results
 - Leverages OpenAI's GPT-4 model for high-quality, relevant answers
 - Easy-to-use Chrome extension
+- Option to separately ask queries by clicking on the extension icon and pressing the button
 
 ## Installation
 
@@ -27,6 +28,12 @@ To use this extension, you must have beta access to the GPT-4 API. If you don't 
 1. Open a new tab and navigate to https://www.google.com/
 2. Enter a search query and press Enter to view the search results
 3. The GPT-4 generated answer will automatically appear on the search results page
+
+**Alternatively:**
+
+1. Click on the GoogleGPT4 extension icon in your browser toolbar
+2. Enter your query in the provided text input field
+3. Press the "Submit" button to receive the GPT-4 generated answer
 
 ## Contributing
 
