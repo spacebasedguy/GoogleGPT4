@@ -4,6 +4,8 @@ GoogleGPT4 is a Chrome extension that enhances your Google search experience by 
 
 **Note:** This is a simple, minimalistic extension with limited functionalities. Feel free to extend its capabilities, add new features, and make improvements!
 
+One unique aspect of this extension is that it allows you to directly use your own OpenAI API key for access. While other similar extensions exist with more functionalities, most of them only support the 3.5 Turbo model or require authorization to access your ChatGPT Plus account. This often leads to consuming a limited number of expensive queries (currently 25 queries every 3 hours). GoogleGPT4 aims to provide a more flexible and customizable solution by enabling you to utilize your own API key for search purposes.
+
 ## Prerequisites
 
 To use this extension, you must have beta access to the GPT-4 API. If you don't have access, please join the waitlist here: https://openai.com/waitlist/gpt-4-api
